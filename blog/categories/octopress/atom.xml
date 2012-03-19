@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | sfufoet's Tech Blog]]></title>
   <link href="http://sfufoet.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://sfufoet.github.com/"/>
-  <updated>2012-03-19T21:52:04+08:00</updated>
+  <updated>2012-03-19T22:05:38+08:00</updated>
   <id>http://sfufoet.github.com/</id>
   <author>
     <name><![CDATA[sfufoet]]></name>
@@ -27,25 +27,31 @@
 
 <p>看完之后，准备好折腾的话，从这里开始：</p>
 
-<pre><code>* [Pro Git - Table of Contents](http://progit.org/book/zh/)
-* [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
-* [GotGitHub](http://www.worldhello.net/gotgithub/index.html) 
-* [Markdown 工具补完 - 小众软件](http://www.appinn.com/markdown-tools/)
-</code></pre>
+<ul>
+<li><a href="http://progit.org/book/zh/">Pro Git - Table of Contents</a></li>
+<li><a href="http://gitbook.liuhui998.com/index.html">Git Community Book 中文版</a></li>
+<li><a href="http://www.worldhello.net/gotgithub/index.html">GotGitHub</a></li>
+<li><a href="http://www.appinn.com/markdown-tools/">Markdown 工具补完 - 小众软件</a></li>
+</ul>
+
 
 <p>然后想尝尝 Octopress 的话，可以参考这三篇安装教程（Octopress 需要 Ruby 环境），主要参考两篇教程（建议交叉参考）：</p>
 
-<pre><code>* [@ghawkgu](https://twitter.com/#!/ghawkgu) 推荐的教程：[The Pragmatic Studio | Installing Ruby 1.9 and Rails 3 on Mac OS X](http://pragmaticstudio.com/blog/2010/9/23/install-rails-ruby-mac) 注：安装 Ruby 就行，神马 Rail 3 和 SQLite3 就不用理会了。
-* [Hello Octopress! - Zespia](http://zespia.tw/blog/2012/01/14/hello-octopress/)
-* [Octopress安裝筆記 - VCAN](http://blog.visioncan.com/2011/install-octopress/)
-</code></pre>
+<ul>
+<li><a href="https://twitter.com/#!/ghawkgu">@ghawkgu</a> 推荐的教程：<a href="http://pragmaticstudio.com/blog/2010/9/23/install-rails-ruby-mac">The Pragmatic Studio | Installing Ruby 1.9 and Rails 3 on Mac OS X</a> 注：安装 Ruby 就行，神马 Rail 3 和 SQLite3 就不用理会了。</li>
+<li><a href="http://zespia.tw/blog/2012/01/14/hello-octopress/">Hello Octopress! - Zespia</a></li>
+<li><a href="http://blog.visioncan.com/2011/install-octopress/">Octopress安裝筆記 - VCAN</a></li>
+</ul>
+
 
 <p>折腾了两天不是这出错就是那出错，搜索 + 问推友，还是安装到最后一步出错。本来宣布放弃，隔了两天，又不死心。继续折腾。终于成功折腾好 Ruby。在这里简单记录一下出错的要点：</p>
 
-<pre><code>3. 如果你没有安装 Xcode，或者安装了 Xcode 4.3 那么一定要手工安装 [GCC](https://github.com/downloads/kennethreitz/osx-gcc-installer/GCC-10.7-v2.pkg)
-1. [@seansay](https://twitter.com/#!/seansay) 提醒：记得在 /usr 啥的目录下要加 sudo
-2. 如果安装 bundle install 的时候提示 Compilation of fsevent_watch failed (see README) (RuntimeError)，这时候只需要要用 bundle update 命令就行了。
-</code></pre>
+<ol>
+<li>如果你没有安装 Xcode，或者安装了 Xcode 4.3 那么一定要手工安装 <a href="https://github.com/downloads/kennethreitz/osx-gcc-installer/GCC-10.7-v2.pkg">GCC</a></li>
+<li><a href="https://twitter.com/#!/seansay">@seansay</a> 提醒：记得在 /usr 啥的目录下要加 sudo</li>
+<li>如果安装 bundle install 的时候提示 Compilation of fsevent_watch failed (see README) (RuntimeError)，这时候只需要要用 bundle update 命令就行了。</li>
+</ol>
+
 
 <p>Octopress 的好处：用 Markdown 来写文章真是好方便呀，看起来不费神，写起来也不费力。这文章的永久地址居然自动拼音化，内牛满面啊。</p>
 
