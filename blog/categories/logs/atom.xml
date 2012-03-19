@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[sfufoet's Tech Blog]]></title>
-  <link href="http://sfufoet.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Logs | sfufoet's Tech Blog]]></title>
+  <link href="http://sfufoet.github.com/blog/categories/logs/atom.xml" rel="self"/>
   <link href="http://sfufoet.github.com/"/>
   <updated>2012-03-19T13:12:41+08:00</updated>
   <id>http://sfufoet.github.com/</id>
