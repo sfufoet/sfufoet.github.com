@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[sfufoet's Tech Blog]]></title>
-  <link href="http://sfufoet.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Octopress | sfufoet's Tech Blog]]></title>
+  <link href="http://sfufoet.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://sfufoet.github.com/"/>
   <updated>2012-03-19T21:44:28+08:00</updated>
   <id>http://sfufoet.github.com/</id>
@@ -55,15 +55,6 @@
 <p>Octopress 这货的缺点就是写文章需要用命令行，更新也需要命令行，学习成本还是挺高的，要会点 git，了解 github，会 Markdown。</p>
 
 <p>正如 Octopress 官方副标题一样：A blogging framework for hackers，这货真的是非常小众非常 hacker。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello Octopress!]]></title>
-    <link href="http://sfufoet.github.com/blog/2012/03/19/hello-octopress/"/>
-    <updated>2012-03-19T13:08:00+08:00</updated>
-    <id>http://sfufoet.github.com/blog/2012/03/19/hello-octopress</id>
-    <content type="html"><![CDATA[<p>哈哈，折腾 <a href="http://octopress.org/">Octopress</a> 成功！找到了当年折腾 <a href="http://wordpress">Wordpress</a> 的感觉！</p>
 ]]></content>
   </entry>
   

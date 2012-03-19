@@ -9,8 +9,7 @@
   <meta name="author" content="sfufoet">
 
   
-  <meta name="description" content="哈哈，折腾 Octopress 成功！找到了当年折腾 Wordpress 的感觉！
-">
+  <meta name="description" content="最近学习 Git 这个分布式版本管理系统，这个东东很强大。近几年 GitHub 这个开源社区的后起之秀就是一个基于 Git 的服务。 这几天在看 GotGitHub 这个 github 指南的发现：可以用 github 来折腾静态博客系统：Octopress。 Octopress 的好处看这里： &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -83,6 +82,80 @@
       
   <header>
     
+      <h1 class="entry-title"><a href="/blog/2012/03/19/mac-an-zhuang-ruby-jian-ji/">Mac 安装 Ruby 和 Octopress 简记</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-03-19T21:02:00+08:00" pubdate data-updated="true">Mar 19<span>th</span>, 2012</time>
+        
+         | <a href="/blog/2012/03/19/mac-an-zhuang-ruby-jian-ji/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>最近学习 <a href="http://git-scm.com/">Git</a> 这个分布式版本管理系统，这个东东很强大。近几年 <a href="https://github.com/">GitHub</a> 这个开源社区的后起之秀就是一个基于 Git 的服务。 这几天在看 <a href="http://www.worldhello.net/gotgithub/index.html">GotGitHub</a> 这个 github 指南的发现：可以用 github 来折腾静态博客系统：<a href="http://octopress.org/">Octopress</a>。</p>
+
+<p>Octopress 的好处看这里：<a href="http://lucifr.com/2011/11/23/bye-bye-wordpress-hello-octopress/">Bye-bye Wordpress. Hello Octopress! - Lucifr</a></p>
+
+<p>看完之后，准备好折腾的话，从这里开始：</p>
+
+<ul>
+<li><a href="http://progit.org/book/zh/">Pro Git - Table of Contents</a></li>
+<li><a href="http://gitbook.liuhui998.com/index.html">Git Community Book 中文版</a></li>
+<li><a href="http://www.worldhello.net/gotgithub/index.html">GotGitHub</a></li>
+<li><a href="http://www.appinn.com/markdown-tools/">Markdown 工具补完 - 小众软件</a></li>
+</ul>
+
+
+<p>然后想尝尝 Octopress 的话，可以参考这三篇安装教程（Octopress 需要 Ruby 环境），主要参考两篇教程（建议交叉参考）：</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/ghawkgu">@ghawkgu</a> 推荐的教程：<a href="http://pragmaticstudio.com/blog/2010/9/23/install-rails-ruby-mac">The Pragmatic Studio | Installing Ruby 1.9 and Rails 3 on Mac OS X</a> 注：安装 Ruby 就行，神马 Rail 3 和 SQLite3 就不用理会了。</li>
+<li><a href="http://zespia.tw/blog/2012/01/14/hello-octopress/">Hello Octopress! - Zespia</a></li>
+<li><a href="http://blog.visioncan.com/2011/install-octopress/">Octopress安裝筆記 - VCAN</a></li>
+</ul>
+
+
+<p>折腾了两天不是这出错就是那出错，搜索 + 问推友，还是安装到最后一步出错。本来宣布放弃，隔了两天，又不死心。继续折腾。终于成功折腾好 Ruby。在这里简单记录一下出错的要点：</p>
+
+<ol>
+<li>如果你没有安装 Xcode，或者安装了 Xcode 4.3 那么一定要手工安装 <a href="https://github.com/downloads/kennethreitz/osx-gcc-installer/GCC-10.7-v2.pkg">GCC</a></li>
+<li><a href="https://twitter.com/#!/seansay">@seansay</a> 提醒：记得在 /usr 啥的目录下要加 sudo</li>
+<li>如果安装 bundle install 的时候提示 Compilation of fsevent_watch failed (see README) (RuntimeError)，这时候只需要要用 bundle update 命令就行了。</li>
+</ol>
+
+
+<p>Octopress 的好处：用 Markdown 来写文章真是好方便呀，看起来不费神，写起来也不费力。这文章的永久地址居然自动拼音化，内牛满面啊。</p>
+
+<p>Octopress 这货的缺点就是写文章需要用命令行，更新也需要命令行，学习成本还是挺高的，要会点 git，了解 github，会 Markdown。</p>
+
+<p>正如 Octopress 官方副标题一样：A blogging framework for hackers，这货真的是非常小众非常 hacker。</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
       <h1 class="entry-title"><a href="/blog/2012/03/19/hello-octopress/">Hello Octopress!</a></h1>
     
     
@@ -127,6 +200,10 @@
     <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/03/19/mac-an-zhuang-ruby-jian-ji/">Mac 安装 Ruby 和 Octopress 简记</a>
+      </li>
     
       <li class="post">
         <a href="/blog/2012/03/19/hello-octopress/">Hello Octopress!</a>
