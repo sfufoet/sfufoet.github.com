@@ -4,7 +4,7 @@
   <title><![CDATA[sfufoet's Tech Blog]]></title>
   <link href="http://sfufoet.github.com/atom.xml" rel="self"/>
   <link href="http://sfufoet.github.com/"/>
-  <updated>2012-03-19T20:39:26+08:00</updated>
+  <updated>2012-03-19T20:43:24+08:00</updated>
   <id>http://sfufoet.github.com/</id>
   <author>
     <name><![CDATA[sfufoet]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello Octopress!]]></title>
-    <link href="http://sfufoet.github.com/blog/2012/03/19/helle-octopress/"/>
+    <link href="http://sfufoet.github.com/blog/2012/03/19/hello-octopress/"/>
     <updated>2012-03-19T13:08:00+08:00</updated>
-    <id>http://sfufoet.github.com/blog/2012/03/19/helle-octopress</id>
+    <id>http://sfufoet.github.com/blog/2012/03/19/hello-octopress</id>
     <content type="html"><![CDATA[<p>哈哈，折腾 <a href="http://octopress.org/">Octopress</a> 成功！找到了当年折腾 <a href="http://wordpress">Wordpress</a> 的感觉！</p>
 ]]></content>
   </entry>
