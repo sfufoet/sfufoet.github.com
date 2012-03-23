@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | sfufoet's Tech Blog]]></title>
   <link href="http://sfufoet.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://sfufoet.github.com/"/>
-  <updated>2012-03-19T22:05:38+08:00</updated>
+  <updated>2012-03-23T16:02:53+08:00</updated>
   <id>http://sfufoet.github.com/</id>
   <author>
     <name><![CDATA[sfufoet]]></name>
@@ -35,12 +35,12 @@
 </ul>
 
 
-<p>然后想尝尝 Octopress 的话，可以参考这三篇安装教程（Octopress 需要 Ruby 环境），主要参考两篇教程（建议交叉参考）：</p>
+<p>然后想尝尝 Octopress 的话，可以参考这三篇安装教程（Octopress 需要 Ruby 环境），主要参考前两篇教程（建议交叉参考）：</p>
 
 <ul>
 <li><a href="https://twitter.com/#!/ghawkgu">@ghawkgu</a> 推荐的教程：<a href="http://pragmaticstudio.com/blog/2010/9/23/install-rails-ruby-mac">The Pragmatic Studio | Installing Ruby 1.9 and Rails 3 on Mac OS X</a> 注：安装 Ruby 就行，神马 Rail 3 和 SQLite3 就不用理会了。</li>
 <li><a href="http://zespia.tw/blog/2012/01/14/hello-octopress/">Hello Octopress! - Zespia</a></li>
-<li><a href="http://blog.visioncan.com/2011/install-octopress/">Octopress安裝筆記 - VCAN</a></li>
+<li><a href="http://blog.visioncan.com/2011/install-octopress/">Octopress 安裝筆記 - VCAN</a></li>
 </ul>
 
 
