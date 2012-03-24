@@ -4,7 +4,7 @@
   <title><![CDATA[sfufoet's Tech Blog]]></title>
   <link href="http://sfufoet.github.com/atom.xml" rel="self"/>
   <link href="http://sfufoet.github.com/"/>
-  <updated>2012-03-24T10:32:02+08:00</updated>
+  <updated>2012-03-24T10:32:52+08:00</updated>
   <id>http://sfufoet.github.com/</id>
   <author>
     <name><![CDATA[sfufoet]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[测试]]></title>
-    <link href="http://sfufoet.github.com/blog/2012/03/24/ce-shi/"/>
-    <updated>2012-03-24T10:10:00+08:00</updated>
-    <id>http://sfufoet.github.com/blog/2012/03/24/ce-shi</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mac 安装 Ruby 和 Octopress 简记]]></title>
