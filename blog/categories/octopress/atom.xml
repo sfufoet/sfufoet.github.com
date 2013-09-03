@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Octopress | sfufoet's Tech Blog]]></title>
-  <link href="http://sfufoet.github.com/blog/categories/octopress/atom.xml" rel="self"/>
-  <link href="http://sfufoet.github.com/"/>
-  <updated>2013-09-03T10:09:08+08:00</updated>
-  <id>http://sfufoet.github.com/</id>
+  <title><![CDATA[Category: Octopress | sfufoet's log]]></title>
+  <link href="http://sfufoet.github.io/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://sfufoet.github.io/"/>
+  <updated>2013-09-03T22:15:12+08:00</updated>
+  <id>http://sfufoet.github.io/</id>
   <author>
     <name><![CDATA[sfufoet]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Mac 安装 Ruby 和 Octopress 简记]]></title>
-    <link href="http://sfufoet.github.com/blog/2012/03/19/mac-an-zhuang-ruby-jian-ji/"/>
+    <link href="http://sfufoet.github.io/blog/2012/03/19/mac-an-zhuang-ruby-jian-ji/"/>
     <updated>2012-03-19T21:02:00+08:00</updated>
-    <id>http://sfufoet.github.com/blog/2012/03/19/mac-an-zhuang-ruby-jian-ji</id>
+    <id>http://sfufoet.github.io/blog/2012/03/19/mac-an-zhuang-ruby-jian-ji</id>
     <content type="html"><![CDATA[<p>最近学习 <a href="http://git-scm.com/">Git</a> 这个分布式版本管理系统，这个东东很强大。近几年 <a href="https://github.com/">GitHub</a> 这个开源社区的后起之秀就是一个基于 Git 的服务。 这几天在看 <a href="http://www.worldhello.net/gotgithub/index.html">GotGitHub</a> 这个 github 指南的发现：可以用 github 来折腾静态博客系统：<a href="http://octopress.org/">Octopress</a>。</p>
 
 <p>Octopress 的好处看这里：<a href="http://lucifr.com/2011/11/23/bye-bye-wordpress-hello-octopress/">Bye-bye Wordpress. Hello Octopress! - Lucifr</a></p>

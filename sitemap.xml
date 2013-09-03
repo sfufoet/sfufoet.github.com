@@ -1,27 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://sfufoet.github.com/blog/2012/03/19/hello-octopress/</loc>
-        <lastmod>2013-09-03T09:27:19+08:00</lastmod>
+        <loc>http://sfufoet.github.io/blog/2011/08/17/mac-tips-zhan-dian-shou-ji/</loc>
+        <lastmod>2013-09-03T22:04:23+08:00</lastmod>
     </url>
     <url>
-        <loc>http://sfufoet.github.com/blog/2012/03/19/mac-an-zhuang-ruby-jian-ji/</loc>
-        <lastmod>2013-09-03T09:27:19+08:00</lastmod>
+        <loc>http://sfufoet.github.io/blog/2012/03/19/hello-octopress/</loc>
+        <lastmod>2013-09-03T21:23:43+08:00</lastmod>
     </url>
     <url>
-        <loc>http://sfufoet.github.com/archives/</loc>
-        <lastmod>2013-09-03T09:27:19+08:00</lastmod>
+        <loc>http://sfufoet.github.io/blog/2012/03/19/mac-an-zhuang-ruby-jian-ji/</loc>
+        <lastmod>2013-09-03T21:23:50+08:00</lastmod>
     </url>
     <url>
-        <loc>http://sfufoet.github.com/blog/archives/</loc>
-        <lastmod>2013-09-03T09:27:19+08:00</lastmod>
+        <loc>
+            http://sfufoet.github.io/blog/2012/10/23/mac-qie-huan-chuang-kou-de-xiao-ji-qiao/
+        </loc>
+        <lastmod>2013-09-03T21:50:44+08:00</lastmod>
     </url>
     <url>
-        <loc>http://sfufoet.github.com/</loc>
-        <lastmod>2013-09-03T09:27:19+08:00</lastmod>
+        <loc>
+            http://sfufoet.github.io/blog/2012/10/24/mac-shu-ru-fa-shu-xu-guan-diao-bao-liao/
+        </loc>
+        <lastmod>2013-09-03T22:04:19+08:00</lastmod>
     </url>
     <url>
-        <loc>http://sfufoet.github.com/robots.txt</loc>
+        <loc>http://sfufoet.github.io/blog/2013/09/03/2013-09-03/</loc>
+        <lastmod>2013-09-03T22:14:19+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sfufoet.github.io/blog/2013/12/31/wo-de-2012-nian-du-zui-ai-jiang/</loc>
+        <lastmod>2013-09-03T22:08:19+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sfufoet.github.io/archives/</loc>
+        <lastmod>2013-09-03T22:14:19+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sfufoet.github.io/blog/archives/</loc>
+        <lastmod>2013-09-03T22:14:19+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sfufoet.github.io/</loc>
+        <lastmod>2013-09-03T22:14:19+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sfufoet.github.io/robots.txt</loc>
         <lastmod>2013-09-02T21:37:14+08:00</lastmod>
     </url>
 </urlset>

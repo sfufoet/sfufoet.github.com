@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[sfufoet's Tech Blog]]></title>
-  <link href="http://sfufoet.github.com/atom.xml" rel="self"/>
-  <link href="http://sfufoet.github.com/"/>
-  <updated>2013-09-03T10:09:08+08:00</updated>
-  <id>http://sfufoet.github.com/</id>
+  <title><![CDATA[sfufoet's log]]></title>
+  <link href="http://sfufoet.github.io/atom.xml" rel="self"/>
+  <link href="http://sfufoet.github.io/"/>
+  <updated>2013-09-03T22:15:12+08:00</updated>
+  <id>http://sfufoet.github.io/</id>
   <author>
     <name><![CDATA[sfufoet]]></name>
     
@@ -14,10 +14,128 @@
 
   
   <entry>
+    <title type="html"><![CDATA[我的 2012 年度最爱奖]]></title>
+    <link href="http://sfufoet.github.io/blog/2013/12/31/wo-de-2012-nian-du-zui-ai-jiang/"/>
+    <updated>2013-12-31T22:06:00+08:00</updated>
+    <id>http://sfufoet.github.io/blog/2013/12/31/wo-de-2012-nian-du-zui-ai-jiang</id>
+    <content type="html"><![CDATA[<p>好久没更新了。乘 2013 年 Loading 的时候，记录下我的 2012 年。懒得加链接和图片了。只是些自言自语，大家随便看看就好。</p>
+
+<p>今年最大的改变就是 7 月换了新东家，4 月疑惑，5 月投递简历、面试，6 月等待。7 月开始忙碌，博客更加严重地长草。小众和煎蛋也都没更新了。同事们各种油菜花。下半年还是很精彩的说。</p>
+
+<!-- more -->
+
+
+<p>年度城市：7 月去了一趟上海培训，回深圳的时候，推迟了飞机，去了苏州拙政园，又去了杭州西湖、灵隐寺、西溪湿地公园。</p>
+
+<p>年度网友：在上海杭州见了很多网友，这里就不一一列举。</p>
+
+<p>年度败家：爱疯5。</p>
+
+<p>年度日剧：基本没怎么看日剧了。</p>
+
+<p>年度歌手：基本没变。也开始听一些其他歌手的歌曲。</p>
+
+<p>年度歌曲：暂缺</p>
+
+<p>年度漫画：《浪客剑心》</p>
+
+<p>年度网络服务：Twitter 什么的基本变成书签和链接分享了。就给 Instagram 吧。Google 什么的，对它是越来越失望，最近开始使用 <a href="http://www.duckduckgo.com">Duckduckgo.com</a> 来搜索东西。</p>
+
+<p>年度最爱 app：Cookie Words，iOS 上查单词的神器。</p>
+
+<p>年度游戏：Wimp: Who Stole My Pants（完美爆机） 和 Neuroshima Hex。</p>
+
+<p>年度书籍：去年就买的《Steve Jobs》还没开始看。。今年也没看什么书，最近开始看《撒哈拉的故事》</p>
+
+<p>年度最爱最无奈桌面浏览器：Firefox，蝉联，这货还是一样破！</p>
+
+<p>年度折腾：无。</p>
+
+<p>年度纪录片：无</p>
+
+<p>年度电影：《永远的三丁目的夕阳》和《永远的三丁目的夕阳’64》，关于亲情爱情友情和幸福的两部电影，非常温馨精彩。</p>
+
+<p>明年的话，暂时还想不到做好什么。把目前这个岗位做好，向着下一个岗位慢慢前进吧。工作的忙碌与上班时间的灵活性让我的作息混乱。信息焦虑症和拖延症还是一样没减。下半年练了一下吉他，最近都没碰了。整个人陷入了一种很奇怪的状态。工作表现还好，生活上却陷入了一种不知是慵懒还是拖延症的奇怪状态。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2013-09-03]]></title>
+    <link href="http://sfufoet.github.io/blog/2013/09/03/2013-09-03/"/>
+    <updated>2013-09-03T22:09:00+08:00</updated>
+    <id>http://sfufoet.github.io/blog/2013/09/03/2013-09-03</id>
+    <content type="html"><![CDATA[<p>今天心血来潮，把这个 Github 的博客弄起来。在硬盘某个角落找到了 2011 年 9 月前的博客数据库备份。在本地搭建了个 Wordpress，把文章导出来，找了个 Wordpress 转移到 Octopress 的教程，折腾了一天，想把以前的文章也弄过来，整理的时候发现以前的文章也没有保留的必要，就留在硬盘里吧。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mac 输入法鼠须管碉堡了]]></title>
+    <link href="http://sfufoet.github.io/blog/2012/10/24/mac-shu-ru-fa-shu-xu-guan-diao-bao-liao/"/>
+    <updated>2012-10-24T00:00:00+08:00</updated>
+    <id>http://sfufoet.github.io/blog/2012/10/24/mac-shu-ru-fa-shu-xu-guan-diao-bao-liao</id>
+    <content type="html"><![CDATA[<p>不知道什么是鼠须管，请猛击这里<a href="http://www.byvoid.com/blog/tag/%E9%BC%A0%E9%A1%BB%E7%AE%A1/">推薦一個神級輸入法——Rime</a>。</p>
+
+<p>早就知道这个输入法，觉得折腾起来太麻烦，一直懒得折腾。<a href="http://lixiaolai.com/blog/2012/10/22/rime-mac-shang-de-shen-ji-shu-ru-fa/">看了 xiaolai 老师的文章</a>，决定折腾一下，还真折腾。So，分享一份配置文件。</p>
+
+<p><a href="http://code.google.com/p/rimeime/wiki/Downloads?tm=2">下载对应的 Rime 版本</a>，安装之后，注销，重启系统后启用鼠须管。找个地方输入，按下 Ctrl + `，按下 4 选择 4 漢字 - 汉字。</p>
+
+<!-- more -->
+
+
+<p><a href="http://pan.baidu.com/share/link?shareid=94529&amp;amp;uk=2888353793">下载这个配置文件的压缩包</a>，根据需要修改吧，文件里面有注释，然后点击鼠须管输入法图标 - 「用户设定」，把压缩包解压到打开的目录里。</p>
+
+<p>最后，点击鼠须管输入法图标 - 「重新部署」。</p>
+
+<p>我这个配置文件主要修改了以下内容：</p>
+
+<p>1、候选字修改为横排显示</p>
+
+<p>2、自定义了一个简洁的圆角皮肤，和自带的 Luna 主题相近。</p>
+
+<p>3、开启了 Alfred 可以输入中文，因为我把 Alfred 设置为自动切换到英文输入法了。</p>
+
+<p>4、稍稍奇怪的模糊音设置：an = an 或者 ang，ang 不会匹配到 an，其他韵母类似。</p>
+
+<p>5、用 <code>来输入 emoji，在</code> 之后输入 emoji 对应的英文就行。<a href="http://rimeime.googlecode.com/svn/trunk/artworks/schema/emoji-chart.png">emoji 符号输入指南</a>。</p>
+
+<p>6、骆驼字（camelWords）的识别，也就是说，设置前：输入 camelW 的时候，前面的 camel 会显示为中文，设置后：camel 会显示为英文。感谢 <a href="http://stackoverflow.com/questions/1128305/regular-expression-to-identify-camelcased-words">stackoverflow</a> 提供的正则表达式。</p>
+
+<p>一些技巧：</p>
+
+<p>[ ] 可以快速输入传说中的中文引号 「」，加上 Shift 就可以输入 『』。关于中文引号可以参考：<a href="http://zh.wikipedia.org/wiki/%E5%BC%95%E5%8F%B7">引号 - 维基百科</a> 和 <a href="http://apple4.us/2010/05/how-to-type-chinese-quotation-marks.html">如何打出（真正的）中文引号</a></p>
+
+<p>自动纠错很强大。可以自定义哦，比如 zhonguo =&gt; zhong guo    zho =&gt; zhong|zhou     hoa =&gt; hao    tain =&gt; tian    dagn =&gt; dang</p>
+
+<p>删除误造的词：苹果键盘用 Shift+Fn+Delete。</p>
+
+<p>建议去看官方这两篇文章：</p>
+
+<p><a href="http://code.google.com/p/rimeime/wiki/UserGuide">UserGuide 说明书 </a></p>
+
+<p><a href="http://code.google.com/p/rimeime/wiki/CustomizationGuide#%E4%B8%80%E4%BE%8B%E3%80%81%E5%AE%9A%E8%A3%BD%E6%96%B9%E6%A1%88%E9%81%B8%E5%96%AE">Rime 定製指南</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mac 切换窗口的小技巧]]></title>
+    <link href="http://sfufoet.github.io/blog/2012/10/23/mac-qie-huan-chuang-kou-de-xiao-ji-qiao/"/>
+    <updated>2012-10-23T00:00:00+08:00</updated>
+    <id>http://sfufoet.github.io/blog/2012/10/23/mac-qie-huan-chuang-kou-de-xiao-ji-qiao</id>
+    <content type="html"><![CDATA[<p>用 Cmd + Tab 切换窗口的时候，按住 Cmd 不放，Tab 到不需要的窗口图标时，按下 Q 可以退出该程序。</p>
+
+<p>@<a href="https://twitter.com/Leaskh">Leaskh</a> 补充：还能按 H 隐藏/显示。</p>
+
+<p>下面这条补充是不能在“用 Cmd + Tab 切换窗口的时候，按住 Cmd 不放”来实现的，只能在窗口激活之后，CMD + M</p>
+
+<p>@<a href="https://twitter.com/shadowglenelf">shadowglenelf</a> 补充：还能按 M 最小化呢</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Mac 安装 Ruby 和 Octopress 简记]]></title>
-    <link href="http://sfufoet.github.com/blog/2012/03/19/mac-an-zhuang-ruby-jian-ji/"/>
+    <link href="http://sfufoet.github.io/blog/2012/03/19/mac-an-zhuang-ruby-jian-ji/"/>
     <updated>2012-03-19T21:02:00+08:00</updated>
-    <id>http://sfufoet.github.com/blog/2012/03/19/mac-an-zhuang-ruby-jian-ji</id>
+    <id>http://sfufoet.github.io/blog/2012/03/19/mac-an-zhuang-ruby-jian-ji</id>
     <content type="html"><![CDATA[<p>最近学习 <a href="http://git-scm.com/">Git</a> 这个分布式版本管理系统，这个东东很强大。近几年 <a href="https://github.com/">GitHub</a> 这个开源社区的后起之秀就是一个基于 Git 的服务。 这几天在看 <a href="http://www.worldhello.net/gotgithub/index.html">GotGitHub</a> 这个 github 指南的发现：可以用 github 来折腾静态博客系统：<a href="http://octopress.org/">Octopress</a>。</p>
 
 <p>Octopress 的好处看这里：<a href="http://lucifr.com/2011/11/23/bye-bye-wordpress-hello-octopress/">Bye-bye Wordpress. Hello Octopress! - Lucifr</a></p>
@@ -63,10 +181,31 @@
   
   <entry>
     <title type="html"><![CDATA[Hello Octopress!]]></title>
-    <link href="http://sfufoet.github.com/blog/2012/03/19/hello-octopress/"/>
+    <link href="http://sfufoet.github.io/blog/2012/03/19/hello-octopress/"/>
     <updated>2012-03-19T13:08:00+08:00</updated>
-    <id>http://sfufoet.github.com/blog/2012/03/19/hello-octopress</id>
+    <id>http://sfufoet.github.io/blog/2012/03/19/hello-octopress</id>
     <content type="html"><![CDATA[<p>哈哈，折腾 <a href="http://octopress.org/">Octopress</a> 成功！找到了当年折腾 <a href="http://wordpress">Wordpress</a> 的感觉！</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mac Tips 站点收集]]></title>
+    <link href="http://sfufoet.github.io/blog/2011/08/17/mac-tips-zhan-dian-shou-ji/"/>
+    <updated>2011-08-17T00:00:00+08:00</updated>
+    <id>http://sfufoet.github.io/blog/2011/08/17/mac-tips-zhan-dian-shou-ji</id>
+    <content type="html"><![CDATA[<ol>
+<li><a href="http://iphone4.tw/forums/mac-first.php">各种入门 iPhone4.tw</a></li>
+<li><a href="http://www.tip4mac.com/">各种技巧 Tip4Mac</a></li>
+<li><a href="http://www.osxtoy.com/">OSX玩意</a></li>
+<li>李笑来老师的 <a href="http://www.lixiaolai.com/apple/">All About Apple</a></li>
+<li><a href="http://blog.lifehacker.com/mac">Lifehacker 的 Mac 专栏</a></li>
+<li>各种 Mac 软件的升级信息：<a href="http://www.macupdate.com/">MacUpdate</a></li>
+<li>各种 Mac 软件的限时免费信息：<a href="http://appshopper.com/mac/">Appshopper</a></li>
+<li>最后当然还有我们<a href="http://www.appinn.com/tag/mac/">小众软件的 Mac 专栏</a></li>
+</ol>
+
+
+<p>第一次在 Mac 下写东西，默认输入法真不爽。又不想用搜狗和 QQ。</p>
 ]]></content>
   </entry>
   
