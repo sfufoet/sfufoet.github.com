@@ -4,7 +4,7 @@
   <title><![CDATA[sfufoet's log]]></title>
   <link href="http://sfufoet.github.io/atom.xml" rel="self"/>
   <link href="http://sfufoet.github.io/"/>
-  <updated>2013-09-03T22:15:12+08:00</updated>
+  <updated>2013-09-03T22:17:22+08:00</updated>
   <id>http://sfufoet.github.io/</id>
   <author>
     <name><![CDATA[sfufoet]]></name>
@@ -14,10 +14,19 @@
 
   
   <entry>
+    <title type="html"><![CDATA[2013-09-03]]></title>
+    <link href="http://sfufoet.github.io/blog/2013/09/03/2013-09-03/"/>
+    <updated>2013-09-03T22:09:00+08:00</updated>
+    <id>http://sfufoet.github.io/blog/2013/09/03/2013-09-03</id>
+    <content type="html"><![CDATA[<p>今天心血来潮，把这个 Github 的博客弄起来。在硬盘某个角落找到了 2011 年 9 月前的博客数据库备份。在本地搭建了个 Wordpress，把文章导出来，找了个 Wordpress 转移到 Octopress 的教程，折腾了一天，想把以前的文章也弄过来，整理的时候发现以前的文章也没有保留的必要，就留在硬盘里吧。</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[我的 2012 年度最爱奖]]></title>
-    <link href="http://sfufoet.github.io/blog/2013/12/31/wo-de-2012-nian-du-zui-ai-jiang/"/>
-    <updated>2013-12-31T22:06:00+08:00</updated>
-    <id>http://sfufoet.github.io/blog/2013/12/31/wo-de-2012-nian-du-zui-ai-jiang</id>
+    <link href="http://sfufoet.github.io/blog/2012/12/31/wo-de-2012-nian-du-zui-ai-jiang/"/>
+    <updated>2012-12-31T22:06:00+08:00</updated>
+    <id>http://sfufoet.github.io/blog/2012/12/31/wo-de-2012-nian-du-zui-ai-jiang</id>
     <content type="html"><![CDATA[<p>好久没更新了。乘 2013 年 Loading 的时候，记录下我的 2012 年。懒得加链接和图片了。只是些自言自语，大家随便看看就好。</p>
 
 <p>今年最大的改变就是 7 月换了新东家，4 月疑惑，5 月投递简历、面试，6 月等待。7 月开始忙碌，博客更加严重地长草。小众和煎蛋也都没更新了。同事们各种油菜花。下半年还是很精彩的说。</p>
@@ -56,15 +65,6 @@
 <p>年度电影：《永远的三丁目的夕阳》和《永远的三丁目的夕阳’64》，关于亲情爱情友情和幸福的两部电影，非常温馨精彩。</p>
 
 <p>明年的话，暂时还想不到做好什么。把目前这个岗位做好，向着下一个岗位慢慢前进吧。工作的忙碌与上班时间的灵活性让我的作息混乱。信息焦虑症和拖延症还是一样没减。下半年练了一下吉他，最近都没碰了。整个人陷入了一种很奇怪的状态。工作表现还好，生活上却陷入了一种不知是慵懒还是拖延症的奇怪状态。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[2013-09-03]]></title>
-    <link href="http://sfufoet.github.io/blog/2013/09/03/2013-09-03/"/>
-    <updated>2013-09-03T22:09:00+08:00</updated>
-    <id>http://sfufoet.github.io/blog/2013/09/03/2013-09-03</id>
-    <content type="html"><![CDATA[<p>今天心血来潮，把这个 Github 的博客弄起来。在硬盘某个角落找到了 2011 年 9 月前的博客数据库备份。在本地搭建了个 Wordpress，把文章导出来，找了个 Wordpress 转移到 Octopress 的教程，折腾了一天，想把以前的文章也弄过来，整理的时候发现以前的文章也没有保留的必要，就留在硬盘里吧。</p>
 ]]></content>
   </entry>
   
