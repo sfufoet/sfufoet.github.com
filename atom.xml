@@ -4,7 +4,7 @@
   <title><![CDATA[sfufoet's log]]></title>
   <link href="http://sfufoet.github.io/atom.xml" rel="self"/>
   <link href="http://sfufoet.github.io/"/>
-  <updated>2013-09-03T22:17:22+08:00</updated>
+  <updated>2013-09-03T22:20:15+08:00</updated>
   <id>http://sfufoet.github.io/</id>
   <author>
     <name><![CDATA[sfufoet]]></name>
@@ -19,6 +19,8 @@
     <updated>2013-09-03T22:09:00+08:00</updated>
     <id>http://sfufoet.github.io/blog/2013/09/03/2013-09-03</id>
     <content type="html"><![CDATA[<p>今天心血来潮，把这个 Github 的博客弄起来。在硬盘某个角落找到了 2011 年 9 月前的博客数据库备份。在本地搭建了个 Wordpress，把文章导出来，找了个 Wordpress 转移到 Octopress 的教程，折腾了一天，想把以前的文章也弄过来，整理的时候发现以前的文章也没有保留的必要，就留在硬盘里吧。</p>
+
+<p>2012 年也没怎么写文章。GR 挂了之后，还好我在 Reeder 里面把 2012 年的博客文章标星了。算是全部文章找回来了。</p>
 ]]></content>
   </entry>
   
